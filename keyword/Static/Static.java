@@ -1,3 +1,5 @@
+
+
 //                     ***** Static Method  *****
 
 // Static method belong to class not object it means we can access static method without creating
